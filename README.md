@@ -3,6 +3,8 @@
 <p>Este projeto é uma aplicação simples de sorteio de números aleatórios utilizando HTML, CSS e JavaScript. 
   A aplicação permite ao usuário inserir um intervalo de números (mínimo e máximo) e sortear um número aleatório dentro desse intervalo.</p>
 
+<img width="800px" src="https://github.com/JeffDevBr/devclub-js3-project-random/blob/main/assets/img/projeto.png?raw=true" alt="Imagem do projeto Random">
+
   <h3>Funcionalidades</h3>
   <ul>
     <li>Entrada de Intervalo: Dois campos de entrada (minNumber e maxNumber) para definir o intervalo do sorteio.</li>
