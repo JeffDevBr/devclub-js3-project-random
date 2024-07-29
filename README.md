@@ -1,5 +1,7 @@
 <h1>Sorteio de Números Aleatórios</h1>
 
+<a href="https://jeffdevbr.github.io/devclub-js3-project-random/" target="_blank">Deploy do app aqui!</a>
+
 <p>Este projeto é uma aplicação simples de sorteio de números aleatórios utilizando HTML, CSS e JavaScript. 
   A aplicação permite ao usuário inserir um intervalo de números (mínimo e máximo) e sortear um número aleatório dentro desse intervalo.</p>
 
